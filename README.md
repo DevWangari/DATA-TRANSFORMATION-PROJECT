@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a retail sales data transformation workflow using a raw dataset with quality issues. The goal is to clean, validate, and enrich the retail store sales data to produce a higher-quality dataset ready for analysis.
+This project demonstrates a retail sales data transformation workflow using a raw dataset with quality issues. The goal is to clean, validate,visualize and enrich the retail store sales data to produce a higher-quality dataset ready for analysis.
 
 ## What this project does
 
@@ -15,6 +15,7 @@ This project demonstrates a retail sales data transformation workflow using a ra
 - removes unusable rows with insufficient data
 - checks for duplicates and invalid values
 - computes derived features such as day of week and weekend indicator
+- visualize some of the key insights driven from the data using well explained charts
 - exports a cleaned version of the dataset as `cleaned_retail_data.csv`
 
 ## Files in this repository
